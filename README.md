@@ -1,6 +1,6 @@
-###***Entrega Examen:*** 
-#*OPR Diseño y Nuevos Medios*
+###Entrega Examen
+#OPR Diseño y Nuevos medios
 
-Sitio: http://talleraudiovisualuc.cl/
+**Sitio:** http://talleraudiovisualuc.cl/
 
 
