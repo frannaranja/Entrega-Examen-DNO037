@@ -1,1 +1,6 @@
-# Entrega-Examen-DNO037
+***Entrega Examen: 
+*OPR Diseño y Nuevos Medios
+
+Sitio: http://talleraudiovisualuc.cl/
+
+
